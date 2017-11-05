@@ -1,0 +1,73 @@
+img{
+	height: 100px;
+	width:100px;
+	margin-top:5px;
+}
+body{
+	background-color: #C2A052;
+}
+
+h1{
+	font-family: 'Lobster';
+	color:#261E12;
+	font-size:80px;
+	margin-left:105px;
+	margin-top:-105px;
+}
+h3{
+	color:#261E12;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+a{
+color:#261E12;
+text-decoration: none;
+}
+a:hover{
+color:#261E12;
+text-decoration: none;
+}
+a:visited{
+color:#261E12;
+text-decoration: none;
+}
+h3#home{
+	margin-left:110px;
+	margin-top:-70px;
+}
+h3#services{
+	margin-left:210px;
+	margin-top: -55px;
+}	
+h3#about{
+	margin-left:330px;
+	margin-top:-55px;
+}	
+h3#contact{
+	margin-left:460px;
+	margin-top:-55px;
+}
+div{
+	
+font-family: 'Shadows Into Light', cursive;
+	color: white;
+}
+div#hometext{
+	font-size:18px;
+	margin-left:70px;
+}
+ul{
+	
+font-family: 'Shadows Into Light', cursive;
+	color: white;
+}
+p{
+	
+font-family: 'Shadows Into Light', cursive;
+	color: white;
+}
+div#divcon{
+	margin-left:50px;
+}
+div#divab{
+	margin-left:50px;
+}
